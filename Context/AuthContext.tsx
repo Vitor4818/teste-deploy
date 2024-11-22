@@ -4,15 +4,15 @@ type User = {
   nome: string;
   sobrenome: string;
   email: string;
-  dataDeNascimento?: string; // ou qualquer tipo que você use
-  cep?: string; // Adicione a propriedade cep como opcional
+  dataDeNascimento?: string; 
+  cep?: string; 
 };
 
 
 interface AuthContextProps {
   isAuthenticated: boolean;
   user: User | null;
-  login: (user: User) => void; // Alterado para aceitar um objeto de usuário
+  login: (user: User) => void; // Alterado para aceitar um objeto de usuári
   logout: () => void;
 }
 
