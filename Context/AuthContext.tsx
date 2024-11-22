@@ -1,9 +1,13 @@
 import React, { createContext, useContext, useState } from 'react';
 
-interface User {
+type User = {
   nome: string;
+  sobrenome: string;
   email: string;
-}
+  dataDeNascimento?: string; // ou qualquer tipo que você use
+  cep?: string; // Adicione a propriedade cep como opcional
+};
+
 
 interface AuthContextProps {
   isAuthenticated: boolean;
