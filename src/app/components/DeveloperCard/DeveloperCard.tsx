@@ -1,11 +1,11 @@
 import React from 'react';
-import Image from 'next/image';
+import Image, { StaticImageData } from 'next/image';
 import styles from './page.module.css';
 
 interface DeveloperCardProps {
   name: string;
   rm: string | number;
-  imageSrc: string;
+  imageSrc:  StaticImageData | string;
   linkedinUrl: string;
   gitUrl: string;
 }
