@@ -1,28 +1,27 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# 🌿 Conscientização Ambiental - Energia Sustentável
 
-## Getting Started
+Projeto front-end desenvolvido para promover a conscientização sobre a importância das energias renováveis, com foco especial na energia eólica e outras fontes sustentáveis.
 
-First, run the development server:
+## 🌬️ Sobre o Projeto
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+Este site informativo apresenta conceitos, benefícios e dados relevantes sobre a energia do vento e outras fontes renováveis, com o objetivo de educar e incentivar práticas ambientais responsáveis. A interface é simples, intuitiva e responsiva, adequada para dispositivos móveis e desktops.
 
-Abra [http://localhost:3000](http://localhost:3000) no Navegador para conferir o resultado.
+## 🚀 Funcionalidades
 
-Para conferir a inttegração com a API de Java, - localmente - faça os seguintes passos:
+- Explicação básica sobre energia eólica e outras fontes sustentáveis  
+- Apresentação dos benefícios ambientais e sociais da energia renovável  
+- Exibição de estatísticas e curiosidades importantes  
+- Design responsivo e acessível  
 
-*IMPORTANTE: Necessário ter instalado a IDE IntelliJ para poder rodar Localmente a API
-  [IntelliJ IDEA Community Edition] -> (https://www.jetbrains.com/idea/download/?section=windows)
+## 🛠️ Tecnologias Utilizadas
 
-1. Clonar o repositório da API -> (https://github.com/montclio/gs2-java-twe.git)
-2. Baixar as Dependências no arquivo "pom.xml"
-3. Atualizar o projeto
-4.  Executar a Classe Main
-# teste-deploy
+- HTML5  
+- CSS3  
+- JavaScript (Vanilla)  
+
+## 🎯 Objetivo
+
+Educar e conscientizar o público sobre a importância da adoção de energias limpas para um futuro sustentável.
+
+---
+
